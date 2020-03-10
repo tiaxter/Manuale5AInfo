@@ -1,0 +1,127 @@
+Comandi Git
+git config --global user.name 'Tuo Nome GitHub'
+Test:
+ 
+
+git config --global user.email email@github.com
+
+Test:
+ 
+
+git remote -v
+
+Test:
+ 
+
+git remote add identificatoreServerRemoto UrlServerRemoto
+
+Test:
+ 
+
+git add nome_file
+
+Test:
+ 
+
+git commit -m "Messaggio del commit"
+
+Test:
+ 
+
+git commit -a -m "Messaggio del commit"
+
+Test:
+ 
+
+git commit –amend
+
+Test:
+ 
+
+
+git rm nomeFile
+
+Test:
+ 
+
+
+
+git checkout – nomeFile
+
+Test:
+ 
+
+  
+git pull
+
+Test:
+
+
+  git push identificatoreServerRemoto nomeBranch
+
+Test:
+
+
+  git remote rename identificatoreServerRemoto nomeFileVecchio nomeFileNuovo
+
+  git remote rm nomeFile
+
+  git status
+
+  git diff
+
+  git log
+
+  git tag
+
+  git tag -l 1*
+
+  git tag -a versioneSoftware -m "nota sul tag"
+
+  git show 1.2.3rc1
+
+  git push identificatoreServerRemoto tagDaPubblicare
+
+  git push identificatoreServerRemoto --tag
+
+  git branch
+
+  git branch nomeBranch
+
+  git checkout nomeBranch
+
+  git checkout master
+
+  git branch -d nomeBranch
+
+  git checkout -b nomeBranch
+
+  git checkout master
+  
+git merge feature
+
+ clone    
+ init      
+
+ add       
+ mv         
+ reset      
+ rm         
+
+ bisect     
+ grep       
+ log        
+ status     
+ show       
+
+ branch     
+ checkout    
+ commit     
+ diff       
+ merge      
+ rebase     
+ tag        
+
+ fetch      
+ pull       
+ push       
