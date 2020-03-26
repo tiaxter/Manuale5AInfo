@@ -1,0 +1,35 @@
+JAVA, PHP, JAVASCRIPT
+Keyword (new, let, const, var): rgb(199, 146, 234)
+Costruttore: rgb(255, 203, 107)
+Metodo: rgb(199, 146, 234)
+Parentesi tonde: rgb(137, 221, 255)
+Parametri: #eeffff
+Parametro opzionale: rgb(247, 140, 108)
+Tipologia parametri: #a5c37b
+Commento: #727272
+
+GIT
+git-keyword: #ffffa5
+il resto: bianco
+
+Sistemi:
+testo comando: bianco
+testo da rimpiazzare: rgb(137, 221, 255)
+
+HTML:
+commento:#727272	
+parentesi angolari: #89DDFF
+colore tag: #F07178
+colore attributo: #ffcb6b
+
+CSS
+colore commenti: #727272
+colore tag, id, classi (elementi prima delle parentesi): #F07178	
+colore attributi: #B2CCD6
+
+MYSQL:
+keyword (create, table, insert into, update, alt): rgb(199, 146, 234)
+nome tabella: #ffcb6b
+colonne: bianche
+colore tipologia: #484848
+Parentesi tonde: rgb(137, 221, 255)
