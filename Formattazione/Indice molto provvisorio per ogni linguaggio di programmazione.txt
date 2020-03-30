@@ -1,0 +1,13 @@
+Commento,
+Importazione di una file,
+Modificatori di accesso,
+Dichiarazione variabile,
+Come effettuare il casting,
+Eseguire una stampa,
+Concatenazione Stringhe (in php con il . e in java con il +)
+Definizione di un metodo (quindi come crearne uno),
+Dichiarazione Array e Istanza Array (ArrayList),
+Dichiarazione Classe, Costruttore di una classe, e Istanza della Classe
+Sintassi if else else if,
+Cicli (while, for, foreach)
+Metodi (intesi come quei metodi del linguaggio utili, es. isset, isempty, intval, flotval etc...)
